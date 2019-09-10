@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "educations projects",
+  "main": "main.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dmitryi/HowProgrammingWorks.git"
+  },
+  "author": "Dmitryi Berg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dmitryi/HowProgrammingWorks/issues"
+  },
+  "homepage": "https://github.com/Dmitryi/HowProgrammingWorks#readme",
+  "dependencies": {
+    "eslint": "^6.3.0",
+    "metarhia-common": "0.0.38"
+  }
+}
